@@ -1,3 +1,6 @@
+# LICENSE
+The file with the relevant code has a pretty clear license statement (MIT license). This license allows you to do pretty much whatever you want, if you give credit. Please respect that I put some time into researching a viable method to replace code and give credit where credit is due. Thank you.
+
 # cities-skylines-detour
 Proof of concept for a simple detour for functions in Cities: Skylines (or more generally: Unity 5 x64 on Windows.)
 
