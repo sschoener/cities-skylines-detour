@@ -1,7 +1,7 @@
 /*
 The MIT License (MIT)
 
-Copyright (c) 2015 Sebastian Schöner
+Copyright (c) 2015 Sebastian SchÃ¶ner
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -156,6 +156,14 @@ namespace CitiesSkylinesDetour
                 *(sitePtr + 11) = 0xFF;
                 *(sitePtr + 12) = 0xE3;
             }
+            
+            /*
+             Note: For a x86/32 bit version, you can drop the REX prefixes (0x49, 0x41) of the opcodes.
+             You will also need to change ulong to unit. This yields opcodes for
+              mov ebx, target
+              jmp ebx
+             (which just happens to work since the REX prefix turns ebx into R11).
+            */
         }
 
         /// <summary>
