@@ -1,3 +1,8 @@
+# Deprecated!
+This library is deprecated. It's a hack, has always been a hack, and was never intended to be more than that. It served its purpose and enabled modding for more than one game, making the world a bit better. Mission accomplished :)
+But now, there's a better, shinier, safer, more awesome alternative out there: [Harmony](https://github.com/pardeike/Harmony)
+-Sebastian
+
 # LICENSE
 The file with the relevant code has a pretty clear license statement (MIT license). This license allows you to do pretty much whatever you want, if you give credit. Please respect that I put some time into researching a viable method to replace code and give credit where credit is due. Thank you.
 
