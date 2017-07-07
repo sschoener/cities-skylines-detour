@@ -1,5 +1,5 @@
 # Deprecated!
-This library is deprecated. It's a hack, has always been a hack, and was never intended to be more than that. It served its purpose and enabled modding for more than one game, making the world a bit better. Mission accomplished :)
+This library is deprecated. It's a hack, has always been a hack, and was never intended to be more than that. It served its purpose and enabled advanced modding for more than just Cities: Skylines, making the world a bit better. Mission accomplished :)
 But now, there's a better, shinier, safer, more awesome alternative out there: [Harmony](https://github.com/pardeike/Harmony)
 -Sebastian
 
